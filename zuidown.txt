@@ -1,1 +1,1 @@
-http://127.0.0.1
+https://filemanager.ai/new/application/api/download.php?fileKey=N733phzsDsZMAYmP
